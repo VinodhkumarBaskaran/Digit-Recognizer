@@ -11,3 +11,11 @@ For every ImageId in the test set, you should predict the correct label.
 
 ## Metric
 Evaluated on the categorization accuracy of your predictions (the percentage of images you get correct).
+
+## link
+https://vinodhkumarbaskaran.github.io/Digit-Recognizer/.
+
+## Accuracy :
+   Accuracy - 95.63%
+
+--Working for improvement --
